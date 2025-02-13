@@ -21,7 +21,7 @@ The application was tested on the following system specifications:
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
 ```
-2.In a separate terminal run the following command
+2. In a separate terminal run the following command
 ```bash
 ollama serve
 ```
