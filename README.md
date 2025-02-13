@@ -1,5 +1,10 @@
 # PDF Chat Application with DeepSeek LLM
 
+<p align="center">
+  <img src="image.png" alt="DeepSeek LLM" width="400" />
+</p>
+
+
 A Streamlit-based application that allows users to chat with multiple PDF documents using the DeepSeek language model through Ollama. The application uses LangChain for document processing and FAISS for efficient vector similarity search.
 
 ## System Requirements
