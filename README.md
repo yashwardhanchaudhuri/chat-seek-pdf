@@ -17,8 +17,12 @@ The application was tested on the following system specifications:
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
 ```
+2.In a separate terminal run the following command
+```bash
+ollama serve
+```
 
-2. Pull and run the DeepSeek model:
+3. Pull and run the DeepSeek model:
 ```bash
 ollama run deepseek-r1:14b
 ```
