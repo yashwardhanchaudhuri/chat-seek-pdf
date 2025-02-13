@@ -1,7 +1,7 @@
 # PDF Chat Application with DeepSeek LLM
 
 <p align="center">
-  <img src="screenshot.png" alt="DeepSeek LLM" width="600" />
+  <img src="screenshot.png" alt="DeepSeek LLM" width="800" />
 </p>
 
 
@@ -10,10 +10,9 @@ A Streamlit-based application that allows users to chat with multiple PDF docume
 ## System Requirements
 
 The application was tested on the following system specifications:
-- OS: ubuntu 24.01
+- OS: ubuntu 24.04
 - Python: 3.9
 - RAM: 16GB (recommended)
-- Storage: SSD recommended for better performance
 - GPU: NVIDIA GeForce RTX 2080 super MaxQ
 
 ## Prerequisites
