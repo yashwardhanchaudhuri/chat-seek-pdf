@@ -1,7 +1,7 @@
 # PDF Chat Application with DeepSeek LLM
 
 <p align="center">
-  <img src="image.png" alt="DeepSeek LLM" width="400" />
+  <img src="screenshot.png" alt="DeepSeek LLM" width="400" />
 </p>
 
 
